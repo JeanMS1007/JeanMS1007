@@ -1,4 +1,4 @@
-<h3 align="left">Hi, I amJean Mateus Schäffer<br><br>I work as a Systems Analyst at the company Fockink Indústrias Elétricas LTDA, developing and maintaining web systems.</h3>
+<h3 align="left">Hi, I am Jean Mateus Schäffer<br><br>I work as a Systems Analyst at the company Fockink Indústrias Elétricas LTDA, developing and maintaining web systems.</h3>
 
 ###
 
